@@ -8,7 +8,7 @@ This project explores the validation of the convergence hypothesis within the fr
 
 - **Model Sparsity**: Achieved through careful selection of covariates, enhancing the model's interpretability and operational efficiency.
 
-![Model Sparsity](images/model_sparsity.png)
+![Model Sparsity](images/sparsity.png)
 *Figure: Values of $\beta$ for the different approaches.*
 
 - **Improved Accuracy**: A notable 45% increase in Mean Squared Error (MSE) performance, indicating more precise estimates.
