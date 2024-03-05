@@ -17,16 +17,3 @@ This project explores the validation of the convergence hypothesis within the fr
 ## Methodology
 
 The project employs Bayesian methods for data analysis, with a keen focus on achieving model sparsity and improving estimate accuracy. Cross-validation techniques alongside MSE comparisons were utilized to ensure the reliability and consistency of our results.
-
-## Usage
-
-Details on how to replicate our analysis, access the dataset, and utilize the provided scripts are outlined below:
-
-### Prerequisites
-
-List of software, libraries, and tools required, e.g., Python, R, specific packages.
-
-### Dataset
-
-Description of the dataset and how to access it.
-
